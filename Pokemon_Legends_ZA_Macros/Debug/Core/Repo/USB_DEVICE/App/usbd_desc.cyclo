@@ -1,0 +1,10 @@
+../Core/Repo/USB_DEVICE/App/usbd_desc.c:252:11:USBD_FS_DeviceDescriptor	1
+../Core/Repo/USB_DEVICE/App/usbd_desc.c:265:11:USBD_FS_LangIDStrDescriptor	1
+../Core/Repo/USB_DEVICE/App/usbd_desc.c:278:11:USBD_FS_ProductStrDescriptor	2
+../Core/Repo/USB_DEVICE/App/usbd_desc.c:297:11:USBD_FS_ManufacturerStrDescriptor	1
+../Core/Repo/USB_DEVICE/App/usbd_desc.c:310:11:USBD_FS_SerialStrDescriptor	1
+../Core/Repo/USB_DEVICE/App/usbd_desc.c:330:11:USBD_FS_ConfigStrDescriptor	2
+../Core/Repo/USB_DEVICE/App/usbd_desc.c:349:11:USBD_FS_InterfaceStrDescriptor	2
+../Core/Repo/USB_DEVICE/App/usbd_desc.c:369:11:USBD_FS_USR_BOSDescriptor	1
+../Core/Repo/USB_DEVICE/App/usbd_desc.c:382:13:Get_SerialNum	2
+../Core/Repo/USB_DEVICE/App/usbd_desc.c:408:13:IntToUnicode	3

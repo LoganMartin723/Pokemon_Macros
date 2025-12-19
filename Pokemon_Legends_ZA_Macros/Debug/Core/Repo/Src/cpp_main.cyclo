@@ -1,0 +1,4 @@
+../Core/Repo/Src/cpp_main.cpp:38:17:void xSemaphoreCheck_IRQHandler()	3
+../Core/Repo/Src/cpp_main.cpp:50:6:void cpp_main()	1
+../Core/Repo/Src/cpp_main.cpp:75:1:void __static_initialization_and_destruction_0()	1
+../Core/Repo/Src/cpp_main.cpp:75:1:cpp)	1

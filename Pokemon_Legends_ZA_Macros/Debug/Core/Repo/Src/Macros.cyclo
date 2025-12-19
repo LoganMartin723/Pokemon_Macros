@@ -1,0 +1,26 @@
+../Core/Repo/Src/Macros.cpp:14:1:Macros::Macros(queue*)	1
+../Core/Repo/Src/Macros.cpp:21:6:void Macros::USB_Busy()	3
+../Core/Repo/Src/Macros.cpp:32:6:void Macros::Update()	26
+../Core/Repo/Src/Macros.cpp:203:6:void Macros::wild_zone_1()	1
+../Core/Repo/Src/Macros.cpp:244:6:void Macros::wild_zone_2()	1
+../Core/Repo/Src/Macros.cpp:284:6:void Macros::wild_zone_3()	1
+../Core/Repo/Src/Macros.cpp:324:6:void Macros::wild_zone_4()	1
+../Core/Repo/Src/Macros.cpp:364:6:void Macros::wild_zone_5()	1
+../Core/Repo/Src/Macros.cpp:404:6:void Macros::wild_zone_6()	1
+../Core/Repo/Src/Macros.cpp:444:6:void Macros::wild_zone_7()	1
+../Core/Repo/Src/Macros.cpp:484:6:void Macros::wild_zone_8()	1
+../Core/Repo/Src/Macros.cpp:524:6:void Macros::wild_zone_9()	1
+../Core/Repo/Src/Macros.cpp:564:6:void Macros::wild_zone_10()	1
+../Core/Repo/Src/Macros.cpp:604:6:void Macros::wild_zone_11()	1
+../Core/Repo/Src/Macros.cpp:645:6:void Macros::wild_zone_12()	1
+../Core/Repo/Src/Macros.cpp:685:6:void Macros::wild_zone_13()	1
+../Core/Repo/Src/Macros.cpp:725:6:void Macros::wild_zone_14()	1
+../Core/Repo/Src/Macros.cpp:765:6:void Macros::wild_zone_15()	1
+../Core/Repo/Src/Macros.cpp:805:6:void Macros::wild_zone_16()	1
+../Core/Repo/Src/Macros.cpp:845:6:void Macros::wild_zone_17()	1
+../Core/Repo/Src/Macros.cpp:885:6:void Macros::wild_zone_18()	1
+../Core/Repo/Src/Macros.cpp:926:6:void Macros::wild_zone_19()	1
+../Core/Repo/Src/Macros.cpp:966:6:void Macros::wild_zone_20()	1
+../Core/Repo/Src/Macros.cpp:1006:6:void Macros::bench_reset()	2
+../Core/Repo/Src/Macros.cpp:1032:6:void Macros::auto_battle()	1
+../Core/Repo/Src/Macros.cpp:1045:6:void Macros::turbo_a()	1

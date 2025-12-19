@@ -1,0 +1,9 @@
+../Core/Repo/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c:286:16:USBD_HID_Init	2
+../Core/Repo/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c:316:16:USBD_HID_DeInit	2
+../Core/Repo/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c:339:16:USBD_HID_Setup	13
+../Core/Repo/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c:413:9:USBD_HID_SendReport	3
+../Core/Repo/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c:435:10:USBD_HID_GetPollingInterval	2
+../Core/Repo/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c:465:18:USBD_HID_GetCfgDesc	1
+../Core/Repo/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c:480:16:USBD_HID_DataIn	1
+../Core/Repo/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c:496:17:USBD_HID_DataOut	1
+../Core/Repo/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c:509:17:USBD_HID_GetDeviceQualifierDesc	1

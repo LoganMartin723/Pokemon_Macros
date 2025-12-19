@@ -1,0 +1,3 @@
+../Core/Repo/Src/ns_joystick.c:6:6:ResetReport	24	static
+../Core/Repo/Src/ns_joystick.c:21:9:SendReport	24	static
+../Core/Repo/Src/ns_joystick.c:28:6:HoldReport	32	static
